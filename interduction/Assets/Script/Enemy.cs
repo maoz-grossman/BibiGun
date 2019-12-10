@@ -6,7 +6,7 @@ public class Enemy : MonoBehaviour
 {
     private int direction;
     [SerializeField]
-    private float _speed = 2f;
+    private float _speed = 1.25f;
     [SerializeField]
     private float _rotateSpeed = 0.3f;
     [SerializeField]
